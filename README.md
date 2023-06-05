@@ -3,11 +3,11 @@
 
 - 🔭 Estou atualmente trabalhando no meu [Portfólio Pessoal](https://github.com/AndreMicael/Portfolio_Dev/)
 
-- 🌱 Estou atualmente aprendendo **Sass e React**
+- 🌱 Estou atualmente aprendendo: **Sass e React**
 
 - 👨‍💻 Todos os projetos estarão disponíveis em meu portfolio no seguinte link: [Em Breve]
 
-- 📝 Estou planejando escrever alguns artigos. Fiquem de olho no meu Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
+- 📝 Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
 
 - 📫 Fale comigo pelo e-mail **andremicael@gmail.com**
 
