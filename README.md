@@ -24,7 +24,4 @@
 
 ![Andre Micaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMicael&theme=radical&show_icons=true) 
 
-
-[![Andre Micael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AndreMicael&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/AndreMicael)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
