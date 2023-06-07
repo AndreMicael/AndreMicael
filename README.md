@@ -9,7 +9,7 @@
 
 - 📝 Comecei a escrever alguns artigos no Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
 
-- 📫 Fale comigo pelo e-mail **andremicael@gmail.com**
+- 📫 Fale comigo pelo e-mail: **andremicael@gmail.com**
 
 <h3 align="left">Meus Contatos:</h3>
 <p align="left">
