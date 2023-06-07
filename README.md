@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os projetos estarão disponíveis em meu portfolio no seguinte link: [Em Breve]
 
-- 📝 Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
+- 📝 Comecei a escrever alguns artigos no Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
 
 - 📫 Fale comigo pelo e-mail **andremicael@gmail.com**
 
