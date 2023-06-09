@@ -10,9 +10,7 @@
 
 - Atualmente estou aprendendo: Reac e Sass
   
-  
-  Atualmente trabalho com as tecnologias abaixo. 
-  
+ 
 
 
 
