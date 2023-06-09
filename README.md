@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 3º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação. Atualmente trabalho com as tecnologias abaixo. <br><br>Em breve postarei meu portfólio abaixo.</p>
+<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 3º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação. Atualmente trabalho com as tecnologias abaixo. 
+  
+  Email: andremicael@gmail.com
+  
+  
+  <br><br>Em breve postarei meu portfólio abaixo.</p>
 
 ###
 
@@ -44,9 +49,7 @@
   <a href="https://www.linkedin.com/in/andremsampaio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="andremicael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+ 
   <a href="https://www.behance.net/andremicael" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
