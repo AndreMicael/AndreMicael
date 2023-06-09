@@ -1,4 +1,3 @@
-
 <h2 align="left">Fala👋! Meu nome é André</h2>
 
 ###
@@ -41,26 +40,12 @@
 
 ###
 
-- 🔭 Estou atualmente trabalhando no meu [Portfólio Pessoal](https://github.com/AndreMicael/Portfolio_Dev/)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+</div>
 
-- 🌱 Estou atualmente aprendendo: **Sass e React**
-
-- 👨‍💻 Todos os projetos estarão disponíveis em meu portfolio no seguinte link: [Em Breve]
-
-- 📝 Comecei a escrever alguns artigos no Linkedin: [https://www.linkedin.com/in/andremsampaio/](https://www.linkedin.com/in/andremsampaio/)
-
-- 📫 Fale comigo pelo e-mail: **andremicael@gmail.com**
-
-###
-
-<h3 align="left">Meus Contatos:</h3>
-<p align="left">
-<a href="https://codepen.io/andremicael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andremicael" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andremsampaio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andremsampaio" height="30" width="40" /></a>
-<a href="https://www.behance.net/andremicael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="andremicael" height="30" width="40" /></a>
-</p>
-
-###
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/49279300?v=4"  />
@@ -87,26 +72,3 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
