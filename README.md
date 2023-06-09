@@ -2,12 +2,17 @@
 
 ###
 
-<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 3º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação. Atualmente trabalho com as tecnologias abaixo. 
+<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 3º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação.
+    
+Email: andremicael@gmail.com
+Portfólio: Em Breve
+Atualmente estou aprendendo: Reac e Sass
   
-  Email: andremicael@gmail.com
   
+  Atualmente trabalho com as tecnologias abaixo. 
   
-  <br><br>Em breve postarei meu portfólio abaixo.</p>
+
+
 
 ###
 
