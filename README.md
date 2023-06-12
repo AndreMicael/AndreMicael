@@ -8,7 +8,7 @@
     
 - Portfólio: Em Breve </br>
 
-- Atualmente estou aprendendo: Reac e Sass
+- Atualmente estou aprendendo: React, Sass, mySql.
   
  
 
