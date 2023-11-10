@@ -6,7 +6,7 @@
     
 - E-mail: andremicael@gmail.com
     
-- Portfólio: Em Breve </br>
+- Portfólio: https://andresampaio-portfolio.netlify.app/ </br>
 
 - Atualmente estou aprendendo: React, Sass, mySql.
   
