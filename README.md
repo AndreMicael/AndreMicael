@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 3º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação.
+<p align="left">Prazer em conhecer! Sou desenvolvedor Front-End com um amor por Javascript e React.js. Estudo na Universidade Federal do Estado de Mato Grosso no curso Sistemas de Informação 5º Semestre e estou sempre buscando aumentar meus conhecimentos na área de programação.
     
 - E-mail: andremicael@gmail.com
     
-- Portfólio: https://andresampaio-portfolio.netlify.app/ </br>
+- Portfólio: andremicael.com </br>
 
-- Atualmente estou aprendendo: React, Sass, mySql.
+- Atualmente estou aprendendo: Java, Banco de Dados, AWS.
   
  
 
