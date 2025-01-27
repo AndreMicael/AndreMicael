@@ -8,7 +8,7 @@
     
 - Portfólio: andremicael.com </br>
 
-- Atualmente estou aprendendo: Java, Banco de Dados, AWS.
+- Atualmente estou aprendendo: Java
   
  
 
