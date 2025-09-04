@@ -6,7 +6,7 @@
     
 - E-mail: andremicael@gmail.com
     
-- Portfólio: andremicael.com </br>
+- Portfólio: <a href="https://andremicael.com" target="_blank"> andremicael.com </a> </br>
 
 - Atualmente estou aprendendo: Java
   
