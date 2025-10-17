@@ -14,11 +14,6 @@
 
 ---
 
-### 📚 Atualmente aprendendo
-- ☕ Java (avançando cada vez mais!)
-
----
-
 ### 🛠️ Principais Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
