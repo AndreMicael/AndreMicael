@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Desenvolvedor <b>FullStack (Java | Next.js)</b> <br/>
-  🎓 Estudante de <b>Sistemas de Informação (6º semestre)</b> na <b>Universidade Federal do Estado de Mato Grosso</b> <br/>
+  🎓 Estudante de <b>Sistemas de Informação (7º semestre)</b> na <b>Universidade Federal do Estado de Mato Grosso</b> <br/>
   🌱 Sempre em busca de novos conhecimentos na área de programação!
 </p>
 
