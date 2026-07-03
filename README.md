@@ -1,15 +1,14 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is André and I'm a Full Stack Developer, from Brazil.</h2>
+<h2 data-importer="text" align="center">Hi 👋! My name is André and I'm a Full Stack Developer, from Brazil.</h2>
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=AndreMicael&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
 </div>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,7 +34,7 @@
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://andremicael.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=23ce99&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
@@ -54,6 +53,8 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/AndreMicael/AndreMicael/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/AndreMicael/AndreMicael/snake-output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
