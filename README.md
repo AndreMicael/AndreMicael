@@ -1,12 +1,6 @@
 <h2 data-importer="text" align="center">Hi 👋! My name is André and I'm a Full Stack Developer, from Brazil.</h2>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=AndreMicael&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
